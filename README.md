@@ -1,24 +1,29 @@
-Context :
+<b>Context :</b>
 
-Imaginez vous devez créer une base de données pour la vente de véhicule d’un concessionnaire qui a plusieurs concessions.
+Vous devez créer un formulaire en utilisant les contrôleurs de VueJS, vue-Validator pour valider les champs, ce formulaire correspond à l'enregistrement d’étudiant  pour un stage avec leur date de démarrage.
 
-Les demandes du client :
+<b>Les demandes du client :</b>
 
-Stocker les véhicules avec les options.
-Lister les véhicules et avoir des informations dessus.
-Enregistrer la vente d’un véhicule.
-Savoir quel est le vendeur qui a vendu le véhicule.
-Avoir les factures de ventes
+un champ nom
+un champ email
+un champ date
+un bouton enregistrer
 
-Les demandes du clients sont assez sommaire, vous devez proposer quelques améliorations sur la base pour rajouter 3 ou 4 fonctionnalités.
+<b>Les contraintes de validation de champs :</b>
 
-Bonus :
+Le nom ne doit pas contenir le prénom marc et doit faire minimum 3 caractères
+L’email ne doit pas contenir yahoo.fr et doit etre valide
+Le champ date doit être uniquement dans le futur
 
-Ecrire la requete qui donne la liste des véhicules disponibles par concession qui ont un prix de vente > 10000EUR (en mysql, sql server, postgres peu importe)
+<b>Bonus :</b>
 
-Ce que vous devez rendre : 
+Lister les candidats qui participent au stage en utilisant un stockage local
 
-le schéma de la base de données, avec les clés, les types du champ, les contraintes entre les tables.
+<b>Ce que vous devez rendre : </b>
+
+Un lien github avec la mini application
 
 
-Merci d’envoyer vos résultats par email aux mails suivant
+Merci d’envoyer vos résultats par email aux mails demandés !
+
+bonne chance
