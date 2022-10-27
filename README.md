@@ -24,6 +24,6 @@ Lister les candidats qui participent au stage en utilisant un stockage local
 Un lien github avec la mini application
 
 
-Merci d’envoyer vos résultats par email aux mails demandés !
+***Merci d’envoyer vos résultats par email aux mails demandés !***
 
 bonne chance
